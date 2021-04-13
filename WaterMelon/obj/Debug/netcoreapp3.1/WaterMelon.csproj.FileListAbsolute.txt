@@ -1,0 +1,13 @@
+C:\Users\Sabbir Ahmed\Desktop\waterm\WaterMelon\WaterMelon\bin\Debug\netcoreapp3.1\WaterMelon.exe
+C:\Users\Sabbir Ahmed\Desktop\waterm\WaterMelon\WaterMelon\bin\Debug\netcoreapp3.1\WaterMelon.deps.json
+C:\Users\Sabbir Ahmed\Desktop\waterm\WaterMelon\WaterMelon\bin\Debug\netcoreapp3.1\WaterMelon.runtimeconfig.json
+C:\Users\Sabbir Ahmed\Desktop\waterm\WaterMelon\WaterMelon\bin\Debug\netcoreapp3.1\WaterMelon.runtimeconfig.dev.json
+C:\Users\Sabbir Ahmed\Desktop\waterm\WaterMelon\WaterMelon\bin\Debug\netcoreapp3.1\WaterMelon.dll
+C:\Users\Sabbir Ahmed\Desktop\waterm\WaterMelon\WaterMelon\bin\Debug\netcoreapp3.1\WaterMelon.pdb
+C:\Users\Sabbir Ahmed\Desktop\waterm\WaterMelon\WaterMelon\obj\Debug\netcoreapp3.1\WaterMelon.csprojAssemblyReference.cache
+C:\Users\Sabbir Ahmed\Desktop\waterm\WaterMelon\WaterMelon\obj\Debug\netcoreapp3.1\WaterMelon.AssemblyInfoInputs.cache
+C:\Users\Sabbir Ahmed\Desktop\waterm\WaterMelon\WaterMelon\obj\Debug\netcoreapp3.1\WaterMelon.AssemblyInfo.cs
+C:\Users\Sabbir Ahmed\Desktop\waterm\WaterMelon\WaterMelon\obj\Debug\netcoreapp3.1\WaterMelon.csproj.CoreCompileInputs.cache
+C:\Users\Sabbir Ahmed\Desktop\waterm\WaterMelon\WaterMelon\obj\Debug\netcoreapp3.1\WaterMelon.dll
+C:\Users\Sabbir Ahmed\Desktop\waterm\WaterMelon\WaterMelon\obj\Debug\netcoreapp3.1\WaterMelon.pdb
+C:\Users\Sabbir Ahmed\Desktop\waterm\WaterMelon\WaterMelon\obj\Debug\netcoreapp3.1\WaterMelon.genruntimeconfig.cache
