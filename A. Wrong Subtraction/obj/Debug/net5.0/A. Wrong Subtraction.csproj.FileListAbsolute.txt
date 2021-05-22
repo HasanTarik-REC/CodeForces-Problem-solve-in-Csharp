@@ -1,0 +1,16 @@
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Wrong Subtraction\bin\Debug\net5.0\A. Wrong Subtraction.exe
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Wrong Subtraction\bin\Debug\net5.0\A. Wrong Subtraction.deps.json
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Wrong Subtraction\bin\Debug\net5.0\A. Wrong Subtraction.runtimeconfig.json
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Wrong Subtraction\bin\Debug\net5.0\A. Wrong Subtraction.runtimeconfig.dev.json
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Wrong Subtraction\bin\Debug\net5.0\A. Wrong Subtraction.dll
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Wrong Subtraction\bin\Debug\net5.0\ref\A. Wrong Subtraction.dll
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Wrong Subtraction\bin\Debug\net5.0\A. Wrong Subtraction.pdb
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Wrong Subtraction\obj\Debug\net5.0\A. Wrong Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Wrong Subtraction\obj\Debug\net5.0\A. Wrong Subtraction.AssemblyInfoInputs.cache
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Wrong Subtraction\obj\Debug\net5.0\A. Wrong Subtraction.AssemblyInfo.cs
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Wrong Subtraction\obj\Debug\net5.0\A. Wrong Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Wrong Subtraction\obj\Debug\net5.0\A. Wrong Subtraction.dll
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Wrong Subtraction\obj\Debug\net5.0\ref\A. Wrong Subtraction.dll
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Wrong Subtraction\obj\Debug\net5.0\A. Wrong Subtraction.pdb
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Wrong Subtraction\obj\Debug\net5.0\A. Wrong Subtraction.genruntimeconfig.cache
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Wrong Subtraction\obj\Debug\net5.0\A. Wrong Subtraction.csprojAssemblyReference.cache
