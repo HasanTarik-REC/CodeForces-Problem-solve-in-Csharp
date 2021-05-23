@@ -1,0 +1,16 @@
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Word Capitalization\bin\Debug\net5.0\A. Word Capitalization.exe
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Word Capitalization\bin\Debug\net5.0\A. Word Capitalization.deps.json
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Word Capitalization\bin\Debug\net5.0\A. Word Capitalization.runtimeconfig.json
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Word Capitalization\bin\Debug\net5.0\A. Word Capitalization.runtimeconfig.dev.json
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Word Capitalization\bin\Debug\net5.0\A. Word Capitalization.dll
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Word Capitalization\bin\Debug\net5.0\ref\A. Word Capitalization.dll
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Word Capitalization\bin\Debug\net5.0\A. Word Capitalization.pdb
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Word Capitalization\obj\Debug\net5.0\A. Word Capitalization.csprojAssemblyReference.cache
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Word Capitalization\obj\Debug\net5.0\A. Word Capitalization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Word Capitalization\obj\Debug\net5.0\A. Word Capitalization.AssemblyInfoInputs.cache
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Word Capitalization\obj\Debug\net5.0\A. Word Capitalization.AssemblyInfo.cs
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Word Capitalization\obj\Debug\net5.0\A. Word Capitalization.csproj.CoreCompileInputs.cache
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Word Capitalization\obj\Debug\net5.0\A. Word Capitalization.dll
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Word Capitalization\obj\Debug\net5.0\ref\A. Word Capitalization.dll
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Word Capitalization\obj\Debug\net5.0\A. Word Capitalization.pdb
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Word Capitalization\obj\Debug\net5.0\A. Word Capitalization.genruntimeconfig.cache
