@@ -1,0 +1,16 @@
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Anton and Danik\bin\Debug\net5.0\A. Anton and Danik.exe
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Anton and Danik\bin\Debug\net5.0\A. Anton and Danik.deps.json
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Anton and Danik\bin\Debug\net5.0\A. Anton and Danik.runtimeconfig.json
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Anton and Danik\bin\Debug\net5.0\A. Anton and Danik.runtimeconfig.dev.json
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Anton and Danik\bin\Debug\net5.0\A. Anton and Danik.dll
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Anton and Danik\bin\Debug\net5.0\ref\A. Anton and Danik.dll
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Anton and Danik\bin\Debug\net5.0\A. Anton and Danik.pdb
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Anton and Danik\obj\Debug\net5.0\A. Anton and Danik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Anton and Danik\obj\Debug\net5.0\A. Anton and Danik.AssemblyInfoInputs.cache
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Anton and Danik\obj\Debug\net5.0\A. Anton and Danik.AssemblyInfo.cs
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Anton and Danik\obj\Debug\net5.0\A. Anton and Danik.csproj.CoreCompileInputs.cache
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Anton and Danik\obj\Debug\net5.0\A. Anton and Danik.dll
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Anton and Danik\obj\Debug\net5.0\ref\A. Anton and Danik.dll
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Anton and Danik\obj\Debug\net5.0\A. Anton and Danik.pdb
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Anton and Danik\obj\Debug\net5.0\A. Anton and Danik.genruntimeconfig.cache
+C:\Users\Sabbir Ahmed\source\repos\CodeForcesProblemSolve\A. Anton and Danik\obj\Debug\net5.0\A. Anton and Danik.csprojAssemblyReference.cache
